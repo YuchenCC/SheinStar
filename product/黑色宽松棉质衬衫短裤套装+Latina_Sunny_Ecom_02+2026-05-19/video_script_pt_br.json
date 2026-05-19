@@ -1,0 +1,55 @@
+{
+  "duration_seconds": 10,
+  "platform": "TikTok / Reels / Shorts",
+  "model_id": "Latina_Sunny_Ecom_02",
+  "identity_consistency_notes": "Use the same adult Latina model identity, warm golden-brown tan skin, dark brown naturally wavy long hair, fresh everyday makeup, cheerful sunny mood. Keep the black oversized shirt and matching shorts consistent with generated images.",
+  "scenes": [
+    {
+      "time": "0-2s",
+      "visual": "Model enters a bright frame wearing the black matching set, front view, relaxed smile.",
+      "camera": "Slight push-in from full body to waist-up.",
+      "action": "She adjusts the shirt collar naturally.",
+      "voiceover": "Um conjunto preto facil para usar sem pensar muito.",
+      "caption": "Look pronto em segundos",
+      "product_focus": "Full outfit, collar, oversized fit"
+    },
+    {
+      "time": "2-4s",
+      "visual": "Close shot of the shirt front, buttons and cotton texture.",
+      "camera": "Slow vertical pan from collar to hem.",
+      "action": "Hand lightly touches fabric to show texture.",
+      "voiceover": "Camisa ampla, toque natural e caimento leve.",
+      "caption": "Camisa oversized",
+      "product_focus": "Collar, buttons, fabric"
+    },
+    {
+      "time": "4-6s",
+      "visual": "Waist and shorts detail, showing high waist and relaxed volume.",
+      "camera": "Steady close-up with soft side light.",
+      "action": "Model places one hand near pocket area, non-provocative.",
+      "voiceover": "O shorts completa o visual com conforto.",
+      "caption": "Shorts cintura alta",
+      "product_focus": "Waistband, shorts shape, hem"
+    },
+    {
+      "time": "6-8s",
+      "visual": "Sunny city street lifestyle shot, model walking naturally.",
+      "camera": "Tracking side-front shot.",
+      "action": "She walks and turns slightly to show movement.",
+      "voiceover": "Para passeio, viagem ou fim de semana.",
+      "caption": "Casual, urbano, versatil",
+      "product_focus": "Movement and styling"
+    },
+    {
+      "time": "8-10s",
+      "visual": "Back-to-front turn in clean studio, ending with full outfit centered.",
+      "camera": "Static vertical frame.",
+      "action": "Model turns softly and smiles.",
+      "voiceover": "Combine junto ou use as pecas separadas.",
+      "caption": "Use junto ou separado",
+      "product_focus": "Back length, full front outfit"
+    }
+  ],
+  "video_prompt": "10-second vertical ecommerce fashion video for TikTok/Reels. Use the same adult Latina model identity as Latina_Sunny_Ecom_02: warm golden-brown tan skin, dark brown naturally wavy long hair, fresh everyday makeup, cheerful sunny personality. She wears a black two-piece women's casual set: oversized short-sleeve button-up shirt with classic collar and matching black high-waist shorts, cotton texture. Bright clean studio and sunny Latin American city lifestyle cuts. Product-focused, non-sexualized, natural movement, sharp fabric details, no text embedded in the image, no logos, no watermark, no brand marks.",
+  "negative_prompt": "no nudity, no lingerie, no transparent clothing, no provocative pose, no exaggerated body proportions, no brand logo, no watermark, no distorted hands, no extra limbs, no face identity drift, no cold luxury editorial mood"
+}

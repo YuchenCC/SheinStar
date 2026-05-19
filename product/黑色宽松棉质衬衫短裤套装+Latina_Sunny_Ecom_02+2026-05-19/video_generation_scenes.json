@@ -1,0 +1,92 @@
+{
+  "output_spec": {
+    "format": "vertical",
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "duration_seconds": 10,
+    "platforms": ["TikTok", "Reels", "Shorts"],
+    "language": "pt-BR"
+  },
+  "model_identity": {
+    "model_id": "Latina_Sunny_Ecom_02",
+    "description": "Adult Latina female ecommerce fashion model, age 22-28, warm golden-brown tan skin, dark brown long naturally wavy hair, bright friendly smile, fresh everyday makeup, healthy balanced body, cheerful sunny personality, product-focused, non-sexualized.",
+    "consistency_rules": [
+      "Keep the same face identity across all shots.",
+      "Keep warm golden-brown tan skin tone.",
+      "Keep dark brown long naturally wavy hair.",
+      "Keep fresh everyday makeup and sunny casual mood.",
+      "Do not change body proportions or make the styling provocative."
+    ]
+  },
+  "product": {
+    "name": "Black oversized cotton shirt and shorts set",
+    "description": "Black two-piece women's casual set with oversized short-sleeve button-up shirt, classic collar, black buttons, loose drape, and matching black high-waist shorts. Cotton look with natural texture and soft wrinkles.",
+    "must_show": [
+      "classic collar",
+      "front buttons",
+      "oversized shirt fit",
+      "high-waist shorts",
+      "cotton texture",
+      "full outfit front view",
+      "back shirt length"
+    ]
+  },
+  "scenes": [
+    {
+      "shot": 1,
+      "time": "0-2s",
+      "type": "studio_front_intro",
+      "prompt": "Bright clean studio full-body front view of Latina_Sunny_Ecom_02 wearing a black oversized short-sleeve button-up shirt and matching black high-waist shorts, cotton texture, relaxed smile, natural posture. She lightly adjusts the shirt collar. Slight camera push-in from full body to waist-up, product-focused ecommerce fashion video, soft natural light, no text, no logo, no watermark.",
+      "camera": "Slight push-in from full body to waist-up",
+      "action": "Model enters frame and adjusts shirt collar naturally",
+      "voiceover": "Um conjunto preto facil para usar sem pensar muito.",
+      "caption": "Look pronto em segundos",
+      "product_focus": "Full outfit, collar, oversized fit"
+    },
+    {
+      "shot": 2,
+      "time": "2-4s",
+      "type": "shirt_detail",
+      "prompt": "Close-up vertical video shot of the black oversized shirt front worn by Latina_Sunny_Ecom_02, showing classic collar, black buttons, front placket, stitching, and realistic cotton texture. Slow vertical pan from collar to hem. One hand lightly touches the fabric to show texture, clean ecommerce lighting, no text, no logo, no watermark.",
+      "camera": "Slow vertical pan from collar to hem",
+      "action": "Hand lightly touches the shirt fabric",
+      "voiceover": "Camisa ampla, toque natural e caimento leve.",
+      "caption": "Camisa oversized",
+      "product_focus": "Collar, buttons, front placket, cotton texture"
+    },
+    {
+      "shot": 3,
+      "time": "4-6s",
+      "type": "shorts_detail",
+      "prompt": "Close-up waist and shorts detail of Latina_Sunny_Ecom_02 wearing matching black high-waist shorts from the set. Show waistband, relaxed shorts volume, hem, and cotton texture. The model places one hand near the pocket area in a natural non-provocative pose. Soft side light, steady camera, marketplace-safe ecommerce video, no text, no logo, no watermark.",
+      "camera": "Steady close-up with soft side light",
+      "action": "Model places one hand near pocket area naturally",
+      "voiceover": "O shorts completa o visual com conforto.",
+      "caption": "Shorts cintura alta",
+      "product_focus": "Waistband, shorts shape, hem"
+    },
+    {
+      "shot": 4,
+      "time": "6-8s",
+      "type": "city_lifestyle",
+      "prompt": "Sunny Latin American city street lifestyle video shot of Latina_Sunny_Ecom_02 walking naturally in the black oversized shirt and matching high-waist shorts set. Warm colorful building facades, clean sidewalk, bright daylight, relaxed weekend mood. Tracking side-front shot as she walks and turns slightly to show movement and drape. Product clearly visible, no text, no logo, no watermark.",
+      "camera": "Tracking side-front shot",
+      "action": "Model walks naturally and turns slightly",
+      "voiceover": "Para passeio, viagem ou fim de semana.",
+      "caption": "Casual, urbano, versatil",
+      "product_focus": "Movement, styling, everyday versatility"
+    },
+    {
+      "shot": 5,
+      "time": "8-10s",
+      "type": "studio_turn_final",
+      "prompt": "Clean bright studio ending shot of Latina_Sunny_Ecom_02 wearing the black cotton-look oversized shirt and matching high-waist shorts. Static vertical frame. She makes a soft back-to-front turn and ends centered, relaxed smile, full outfit visible, back shirt length and front silhouette shown clearly, ecommerce product video, no text, no logo, no watermark.",
+      "camera": "Static vertical frame",
+      "action": "Model turns softly from back to front and smiles",
+      "voiceover": "Combine junto ou use as pecas separadas.",
+      "caption": "Use junto ou separado",
+      "product_focus": "Back length, full front outfit"
+    }
+  ],
+  "negative_prompt": "no nudity, no lingerie, no transparent clothing, no provocative pose, no exaggerated body proportions, no brand logo, no watermark, no text embedded in the image, no visible brand marks, no distorted hands, no extra limbs, no face identity drift, no hair color change, no skin tone change, no cold luxury editorial mood, no heavy nightclub styling, no overly sexualized camera angles, no unrealistic fabric shine, no leather or satin texture, no wrong clothing color, no replacing the set with a dress or romper"
+}

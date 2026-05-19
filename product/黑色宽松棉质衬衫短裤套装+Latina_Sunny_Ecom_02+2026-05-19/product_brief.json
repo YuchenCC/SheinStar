@@ -1,0 +1,36 @@
+{
+  "product_name_zh": "黑色宽松棉质衬衫短裤套装",
+  "target_market": "Brazil",
+  "language": "pt-BR",
+  "model_id": "Latina_Sunny_Ecom_02",
+  "category": "conjunto feminino de camisa e shorts",
+  "style": "casual, urbano, fim de semana, resort casual",
+  "colors": ["preto"],
+  "fabric": "100% algodao, based on source image label",
+  "fit": "solto / oversized na camisa, shorts de cintura alta com caimento confortavel",
+  "pattern": "liso",
+  "neckline": "gola de camisa",
+  "sleeve_length": "manga curta ampla",
+  "length": "camisa alongada, shorts curto",
+  "season": ["primavera", "verao", "meia-estacao quente"],
+  "selling_points": [
+    "conjunto pronto para vestir",
+    "tecido 100% algodao conforme imagem de referencia",
+    "modelagem solta e confortavel",
+    "cor preta facil de combinar",
+    "visual casual para rotina, viagem, passeio e fim de semana"
+  ],
+  "missing_fields": [
+    "tabela de medidas",
+    "gramatura do tecido",
+    "confirmacao de bolsos",
+    "instrucoes de lavagem",
+    "grade de tamanhos disponivel"
+  ],
+  "risk_notes": [
+    "Nao prometer efeito emagrecedor garantido.",
+    "Nao usar marcas ou nomes de plataformas como marca do produto.",
+    "Nao declarar elasticidade sem confirmacao.",
+    "Manter fotografia nao sexualizada e focada no produto."
+  ]
+}

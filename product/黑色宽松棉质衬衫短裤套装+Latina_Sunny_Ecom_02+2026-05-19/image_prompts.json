@@ -1,0 +1,69 @@
+{
+  "model_id": "Latina_Sunny_Ecom_02",
+  "global_negative_prompt": "no text, no logo, no watermark, no brand marks, no nudity, no lingerie, no transparent clothing, no provocative pose, no exaggerated body proportions, no distorted hands, no extra limbs, no deformed face, no harsh luxury editorial mood",
+  "image_plan": [
+    {
+      "file_name": "01_model_front",
+      "image_type": "model_front",
+      "purpose": "Main ecommerce model image showing fit and full front view.",
+      "prompt_en": "Use the same model identity as Latina_Sunny_Ecom_02: one adult Latina female ecommerce fashion model, age 22-28, warm golden-brown tan skin, dark brown naturally wavy long hair, bright friendly smile, fresh everyday makeup, healthy balanced body shape, casual energetic posture, approachable and product-focused. She is wearing a black two-piece women's casual set: oversized short-sleeve button-up shirt with classic collar, loose fit, and matching black high-waist shorts in 100% cotton look. Front view, standing relaxed with one hand near pocket, shirt slightly tucked at the front to show the waistband, clean bright studio background, soft natural light, SHEIN-like fast fashion ecommerce photography, sharp clothing details, full outfit visible from head to mid-thigh, no text, no logo, no watermark.",
+      "prompt_zh": "使用 Latina_Sunny_Ecom_02 固定模特身份。成年拉美女性电商模特，健康暖棕小麦色肤色，深棕自然波浪长发，清爽日常妆，亲和阳光。穿黑色两件套：宽松短袖翻领纽扣衬衫，搭配黑色高腰短裤，100% 棉质视觉。正面站姿，一只手靠近口袋，衬衫前摆轻微塞入展示腰线，明亮干净棚拍背景，柔和自然光，Shein 类快时尚电商摄影，服装细节清晰，无文字、无 logo、无水印。",
+      "composition_notes": "Vertical 4:5 or 3:4 crop, leave clean margin, product is primary focus.",
+      "quality_checks": ["shirt is oversized", "shorts waist visible", "black color remains clear", "non-sexual pose", "no text or logos"]
+    },
+    {
+      "file_name": "02_model_back",
+      "image_type": "model_back",
+      "purpose": "Back view showing shirt length, shoulder seam and shorts coverage.",
+      "prompt_en": "Same Latina_Sunny_Ecom_02 adult Latina ecommerce model identity, wearing the black cotton-look oversized short-sleeve button-up shirt and matching black high-waist shorts. Back view with the model turning her head slightly to the side, natural posture, arms relaxed, shirt untucked to show back length and loose drape, shorts hem visible, clean bright studio background, soft natural light, product-focused marketplace photography, sharp seams and fabric texture, no text, no logo, no watermark.",
+      "prompt_zh": "同一位 Latina_Sunny_Ecom_02 模特，穿黑色棉质视觉宽松短袖翻领纽扣衬衫和黑色高腰短裤。背面视角，模特微微侧头，姿态自然，手臂放松，衬衫不塞入以展示后背长度和宽松垂坠，短裤下摆清晰可见，明亮干净棚拍，柔和自然光，商品展示优先，无文字、无 logo、无水印。",
+      "composition_notes": "Vertical crop, show from head to upper thigh, avoid hiding garment details with hair or bag.",
+      "quality_checks": ["back shirt length visible", "short sleeves clear", "shorts visible", "model identity consistent", "no accessory blocking product"]
+    },
+    {
+      "file_name": "03_city_weekend_scene",
+      "image_type": "styled_scene",
+      "purpose": "Lifestyle image for Latin American weekend outing.",
+      "prompt_en": "Latina_Sunny_Ecom_02 adult Latina ecommerce model wearing the black oversized short-sleeve button-up shirt and matching high-waist shorts set, styled with simple gold hoop earrings and neutral sandals, walking on a sunny Latin American city street with warm colorful building facades and clean sidewalk, relaxed weekend mood, natural smile, bright daylight, fresh casual fast-fashion styling, product clearly visible, full body vertical composition, no text, no logo, no watermark, no brand marks.",
+      "prompt_zh": "Latina_Sunny_Ecom_02 成年拉美女性电商模特，穿黑色宽松短袖纽扣衬衫和高腰短裤套装，搭配简洁金色圈耳环和中性色凉鞋，在阳光明亮的拉美城市街道步行，背景有温暖彩色建筑立面和干净人行道，周末出街氛围，自然微笑，商品清晰可见，全身竖图构图，无文字、无 logo、无水印。",
+      "composition_notes": "Full-body lifestyle frame, keep garment unobstructed and black fabric readable.",
+      "quality_checks": ["Latin lifestyle context", "no luxury cold mood", "outfit still main focus", "safe casual styling"]
+    },
+    {
+      "file_name": "04_indoor_sofa_lifestyle",
+      "image_type": "styled_scene",
+      "purpose": "Warm indoor lifestyle image echoing reference flat-lay sofa context.",
+      "prompt_en": "Latina_Sunny_Ecom_02 adult Latina ecommerce model sitting naturally on a light cream fabric sofa in a bright warm living room, wearing the black oversized short-sleeve button-up shirt and matching black high-waist shorts, relaxed non-provocative seated pose, one leg bent naturally, hands adjusting the shirt hem to show fabric drape, soft daylight, cozy Latin home lifestyle, clean ecommerce composition, no text, no logo, no watermark.",
+      "prompt_zh": "Latina_Sunny_Ecom_02 成年拉美女性电商模特坐在浅米色布艺沙发上，明亮温暖客厅环境，穿黑色宽松短袖纽扣衬衫和黑色高腰短裤，坐姿自然不挑逗，一条腿自然弯曲，双手轻轻整理衣摆展示面料垂坠，柔和日光，拉美居家生活感，干净电商构图，无文字、无 logo、无水印。",
+      "composition_notes": "Medium full-body seated crop, avoid overly intimate framing.",
+      "quality_checks": ["pose is casual and non-sexualized", "shirt and shorts both visible", "cream sofa contrast helps black outfit"]
+    },
+    {
+      "file_name": "05_fabric_detail",
+      "image_type": "detail",
+      "purpose": "Detail image for cotton texture.",
+      "prompt_en": "Macro ecommerce product photo of black cotton fabric texture from a women's casual shirt and shorts set, soft natural daylight, visible fine weave and subtle wrinkles, clean neutral cream background, realistic textile detail, no text, no logo, no watermark, no hands.",
+      "prompt_zh": "黑色棉质女装衬衫短裤套装的面料纹理微距电商图，柔和自然光，可见细密织纹和轻微自然褶皱，干净米色中性背景，真实纺织品细节，无文字、无 logo、无水印、无人手。",
+      "composition_notes": "Close macro crop, fabric fills frame.",
+      "quality_checks": ["texture visible", "black fabric not crushed", "no text label generated"]
+    },
+    {
+      "file_name": "06_collar_button_detail",
+      "image_type": "detail",
+      "purpose": "Show collar and front button placket.",
+      "prompt_en": "Close-up ecommerce detail photo of a black oversized short-sleeve button-up shirt, classic pointed collar, black buttons, neat front placket stitching, soft daylight, neutral studio background, realistic cotton texture, no text, no logo, no watermark.",
+      "prompt_zh": "黑色宽松短袖纽扣衬衫的细节电商图，经典尖领、黑色纽扣、门襟走线整洁，柔和日光，中性棚拍背景，真实棉质纹理，无文字、无 logo、无水印。",
+      "composition_notes": "Crop from neckline to upper chest, show collar symmetry and buttons.",
+      "quality_checks": ["collar shape accurate", "buttons aligned", "no brand mark"]
+    },
+    {
+      "file_name": "07_shorts_waist_detail",
+      "image_type": "detail",
+      "purpose": "Show shorts waistband, pleats and hem.",
+      "prompt_en": "Close-up ecommerce detail photo of black high-waist shorts from a matching women's set, waistband with subtle gathered back look, front pleats, clean hem stitching, cotton texture, soft daylight on neutral cream fabric surface, no text, no logo, no watermark.",
+      "prompt_zh": "黑色高腰短裤细节电商图，展示腰头、轻微松紧褶感、前褶、干净下摆走线和棉质纹理，柔和日光，米色中性布面背景，无文字、无 logo、无水印。",
+      "composition_notes": "Flat-lay or close crop, waistband and hem both visible.",
+      "quality_checks": ["waist detail clear", "pleats visible", "fabric looks cotton"]
+    }
+  ]
+}
